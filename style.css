@@ -1,0 +1,25 @@
+.btn a {
+    color: white;
+    text-decoration: none;
+    background-color: red;
+    padding: 10px;
+    font-family: 'Balsamiq Sans', cursive;
+    width: 50px;
+    text-align: center;
+    align-content: center;
+    align-items: center;}
+    nav{background-color: rgb(39,36,44);
+padding: 10px}
+
+
+.btn a:hover{
+    background-color: rgb(186,18,18);
+        
+    border-bottom: 5px solid ;
+    border-bottom-color: purple ;}
+    
+
+.btn {
+
+    list-style-type: none;
+    display: inline-block;  }
