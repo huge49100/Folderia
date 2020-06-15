@@ -1,7 +1,7 @@
 .btn a {
     color: white;
     text-decoration: none;
-    background-color: red;
+    background-color: gray;
     padding: 10px;
     font-family: 'Balsamiq Sans', cursive;
     width: 50px;
@@ -14,7 +14,7 @@ padding: 10px}
 
 
 .btn a:hover{
-    background-color: rgb(186,18,18);}
+    background-color: #363037;}
         
    
     
