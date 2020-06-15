@@ -8,18 +8,26 @@
     text-align: center;
     align-content: center;
     align-items: center;}
+   
     nav{background-color: rgb(39,36,44);
 padding: 10px}
 
 
 .btn a:hover{
-    background-color: rgb(186,18,18);
+    background-color: rgb(186,18,18);}
         
-    border-bottom: 5px solid ;
-    border-bottom-color: purple ;}
+   
     
-
 .btn {
 
     list-style-type: none;
-    display: inline-block;  }
+    display: inline-block; 
+     }
+body {
+    
+    background-image: url('folderia icon.png') ;
+    background-size: cover;
+    background-position: center;
+
+
+}
