@@ -10,7 +10,7 @@
     align-items: center;}
    
     nav{background-color: rgb(39,36,44);
-padding: 10px}
+padding: 5px}
 
 
 .btn a:hover{
@@ -25,7 +25,7 @@ padding: 10px}
      }
 body {
     
-    background-image: url('folderia icon.png') ;
+    background-image: url('folderia icon.jpg') ;
     background-size: cover;
     background-position: center;
 
