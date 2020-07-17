@@ -25,5 +25,6 @@
     display: inline-block; 
      }
 
-*{ font-family: 'Fira Sans', sans-serif;
-    background-image: url('folderia icon.jpg');}
+*{ font-family: 'Fira Sans', sans-serif;}
+    
+body {background-image: url('folderia icon.jpg');}
