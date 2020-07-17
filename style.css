@@ -27,4 +27,5 @@
 
 *{ font-family: 'Fira Sans', sans-serif;}
     
-body {background-image: url('folderia icon.jpg');}
+body {background-image: url('folderia icon.jpg') no-repeat;
+}
