@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<title>Folderia</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="shortcut icon" href="logo.jpg" type="images/jpg">
+	<meta name="description" content="Le site officiel du serveur minecraft Folderia">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<script src="https://kit.fontawesome.com/3ee504c147.js" crossorigin="anonymous"></script>
+
+</head>
+	
+<body>
+	<header>
+		<div class="logo">Logo</div>
+		<nav >
+			<ul>
+				<li><a href="index.html" class="active">Accueil</a></li>
+				<li><a href="Présentation.html">Présentation</a></li>
+				<li><a href="#">Recrutements</a></li>
+				<li><a href="#">Battle Royale</a></li>
+				<li><a href="#">Joueurs</a></li>
+				<li><a href="#">Boutique</a></li>
+				<li class="sub-menu"><a href="#">Nos résaux</a>
+					<ul>
+						
+						<li><a href="social.html#Twitter"><i class="fa fa-twitter" aria-hidden="true"></i> Twitter</a></li>
+						<li><a href="social.html#Youtube"><i class="fa fa-youtube-play" aria-hidden="true"></i> Youtube</a></li>
+						<li><a href="social.html#Discord"><i class="fab fa-discord"></i></i> Discord</a></li>
+						<li><a href="social.html#Tiktok"><i class="fab fa-tiktok"></i> Tik Tok</a></li>
+
+					</ul>
+				</li>
+
+			</ul>
+		</nav>
+		<div class="menu-toggle"><i class="fa fa-bars" aria-hidden="true"></i>
+</div>
+	</header>
+	<script src="http://code.jquery.com/jquery-3.3.1.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.menu-toggle').click(function() {
+				$('nav').toggleClass('active')
+			})
+			$('ul li').click(function(){
+				$(this).toggleClass('active');
+				$(this).siblings().removeClass('active')
+			})
+		})
+	</script>
+	<br>
+	<br>
+	<h3>Folderia est un serveur PVP/Factions disponible sur Minecraft Java Édition.<br> Le mode Folderia Battle Royale, est en cours de création. Le mode Battle Royale sera une nouvelle expérience de jeu pour tous.<br> Redécouvrez le PVP-Factions en Vanilla comme vous ne l'avez jamais vu !<br> Des changements peuvent être applicables comme des événements et des nouveaux horizons.<br> Alors, qu'attendez-vous pour vous livrer à l'expérience Folderia ?</h3>
+	
+
+	
+
+</body>
+</html>
