@@ -17,7 +17,7 @@ Page de présentation sur notre site :
 https://huge49100.github.io/Folderia/Présentation
 
 ## Liens utiles :
-### chaine YouTube:
+###  Chaine YouTube:
 https://www.youtube.com/channel/UC7kXXZb-KuQCCiqAov_RF3Q
 ### Compte Twitter:
 https://twitter.com/FolderiaFR
