@@ -8,7 +8,7 @@ avec l'arrivée du "Battle Royale" qui est pour l'instant, en développement.
 Cette page, c'est le site de notre magnifique serveur qui pourra vous aider.
 
 ## 3 Liens externes
-Plus d'informations sur le site officiel de Folderia :
+### Plus d'informations sur le site officiel de Folderia :
 
  https://huge49100.github.io/Folderia/
 
