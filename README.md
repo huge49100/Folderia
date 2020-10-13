@@ -10,7 +10,7 @@ Cette page, c'est le site de notre magnifique serveur qui pourra vous aider.
 ## 3 Liens externes
 Plus d'informations sur le site officiel de Folderia :
 
-### https://huge49100.github.io/Folderia/
+ https://huge49100.github.io/Folderia/
 
 ### Page de présentation sur notre site :
 
